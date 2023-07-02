@@ -1,2 +1,2 @@
-# OIBSIP
-This repository contains all the tasks from Oasis Infobyte Internship
+# OIBSIP-1
+This repository contains task 1 from Oasis Infobyte Internship
